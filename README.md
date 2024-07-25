@@ -21,7 +21,7 @@ A Python/PyQt5-based mini chat application using GPT-4 for conversational AI. Th
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/gpt4-mini-chat-ui.git
+    git clone https://github.com/Mcleese902/gpt4-mini-chat-ui.git
     cd gpt4-mini-chat-ui
     ```
 
